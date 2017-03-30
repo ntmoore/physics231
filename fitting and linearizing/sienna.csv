@@ -1,0 +1,26 @@
+index,price,model_year,mileage,Data_Source
+,(USD),,(kmiles),
+1,30900,2017,0,NEW LE - Dahl Toyota
+2,29500,2016,22.5,Dahl Toyota
+3,28200,2017,0,NEW L - LaCrosse Toyota
+4,28100,2016,31,Dahl Toyota
+5,27000,2014,26.5,Dahl Toyota
+6,25790,2013,43.6,Dahl Toyota
+7,24400,2015,25,Dahl Toyota
+8,23250,2015,40,Dahl Toyota
+9,21890,2014,33.4,Dahl Toyota
+10,20900,2011,47,http://minneapolis.craigslist.org/wsh/cto/5876068783.html
+11,16000,2011,95,http://minneapolis.craigslist.org/dak/cto/5884189900.html
+12,13600,2011,91,http://madison.craigslist.org/cto/5895697646.html
+13,12500,2011,95,http://minneapolis.craigslist.org/dak/cto/5897581485.html
+14,11900,2006,55,http://minneapolis.craigslist.org/dak/cto/5881500997.html
+15,9500,2007,160,http://dubuque.craigslist.org/cto/5863399256.html
+16,8775,2008,163,http://madison.craigslist.org/cto/5855829939.html
+17,7500,2009,98,http://minneapolis.craigslist.org/hnp/cto/5888948508.html
+18,7500,2007,153,http://rmn.craigslist.org/cto/5879402782.html
+19,6900,2006,148,http://madison.craigslist.org/cto/5894330721.html
+20,6800,2006,124,http://minneapolis.craigslist.org/hnp/cto/5872480085.html
+21,6500,2008,162,http://minneapolis.craigslist.org/hnp/cto/5897774389.html
+22,5600,2007,135,http://minneapolis.craigslist.org/ram/cto/5894811429.html
+23,4600,2006,168,http://madison.craigslist.org/cto/5858814189.html
+24,4450,2007,171,http://minneapolis.craigslist.org/hnp/cto/5897003211.html

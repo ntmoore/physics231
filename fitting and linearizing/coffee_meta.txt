@@ -1,0 +1,9 @@
+coffee_meta.txt
+
+The file coffee.csv contains two columns of mass data.
+
+Each data point is 
+a single batch of coffee beans.  The beans were massed with an electronic scale, roasted to 2nd crack with an air popper, and then massed again.
+
+col1 is mass of green coffee beans (grams)
+col2 is mass of roasted coffee beans (grams)

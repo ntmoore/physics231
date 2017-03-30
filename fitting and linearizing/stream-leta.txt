@@ -1,0 +1,7 @@
+stream-meta.txt
+
+The following times were measured for spheres of different masses to be pushed a distance of 1.5 meters by a stream:
+
+col1 is mass (kg) of the object
+col2 is the time (sec) the object took to move 1.5m
+
